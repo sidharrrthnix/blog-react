@@ -1,4 +1,4 @@
-mongodb+srv://testUser:testaccount@cluster0.uss0q.mongodb.net/ReactCourse?retryWrites=true&w=majority
+
 
 
 
